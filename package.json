@@ -1,0 +1,27 @@
+{
+  "name": "backend-node-express-express-lifecycle-understood",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.14.0"
+  },
+  "description": "",
+  "main": "myApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node myApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaulAM7/BackEnd-Node-Express-Express-Lifecycle-Understood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaulAM7/BackEnd-Node-Express-Express-Lifecycle-Understood/issues"
+  },
+  "homepage": "https://github.com/RaulAM7/BackEnd-Node-Express-Express-Lifecycle-Understood#readme"
+}
